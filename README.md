@@ -1,3 +1,4 @@
+\[ 中文 | [English](README_en.md) | [日本語](README_jp.md) \]
 # 天野 靜樹
 ### *四技日間部 大三*
 
